@@ -1,1 +1,1 @@
-alert('Aleluia deu tudo certo')
+alert('Seja Bem-Vindo!')
